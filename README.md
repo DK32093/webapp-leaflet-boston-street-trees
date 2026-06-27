@@ -18,7 +18,7 @@ An interactive web map that allows users to click on any street tree in Boston a
   - Public demo with local subset (External-access branch)
 
 ## Demo and Data
-Live demo: https://dk32093.github.io/Boston-trees-app/
+Live demo: https://dk32093.github.io/webapp-leaflet-boston-street-trees/
 
 Street trees data: https://data.boston.gov/dataset/treekeeper-street-trees
 
