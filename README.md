@@ -5,7 +5,7 @@ An interactive web map that allows users to click on any street tree in Boston a
 ## Tech Stack
 - PostGIS
 - GDAL / ogr2ogr
-- GeoServer (WMS publishing)
+- GeoServer
 - Leaflet
 
 ## Workflow
